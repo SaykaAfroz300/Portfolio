@@ -1,5 +1,7 @@
 # Sumaia Afroz Sayka — Engineering & Research Portfolio
 
+Live link: https://saykaportfolio.vercel.app/
+
 A minimalist, editorial-grade developer and researcher portfolio built with **Next.js**, **React**, and **Tailwind CSS** — the same modern stack used for the Dhaka Sessions Scheduler platform.
 
 ## ✨ Highlights
