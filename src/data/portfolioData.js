@@ -124,7 +124,7 @@ export const portfolioData = {
     {
       institution: "University of Liberal Arts Bangladesh (ULAB)",
       degree: "BSc in Computer Science & Engineering",
-      period: "Oct 2022 – Sep 2026 (Expected)",
+      period: "Oct 2022 – Sep 2026 (Graduated)",
       score: "CGPA: 3.85 / 4.00",
       location: "Dhaka, Bangladesh",
     },
@@ -153,11 +153,11 @@ export const portfolioData = {
       description: "Managed administrative operations, official correspondence, and organizational documentation.",
     },
     {
-      role: "Active Student Member",
+      role: "Active Member",
       organization: "Institute of Electrical and Electronics Engineers (IEEE)",
       period: "Present",
       location: "Membership ID: 101402663",
-      description: "Participating in international IEEE conferences, research communities, and student leadership.",
+      description: "Participating in international IEEE conferences, research communities, and technical leadership.",
     },
   ],
 

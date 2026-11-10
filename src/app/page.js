@@ -213,7 +213,7 @@ export default function PortfolioHome() {
                   />
                 </div>
                 <div className="mt-3 flex items-center justify-between px-1 text-[11px] font-mono text-stone-500 dark:text-stone-400">
-                  <span>BSc in CSE · ULAB</span>
+                  <span>BSc in CSE Graduate · ULAB</span>
                   <span>IEEE Member</span>
                 </div>
               </div>
